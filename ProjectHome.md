@@ -1,0 +1,1 @@
+Le bot fait la maintenance des articles sur Wikipédia en français
